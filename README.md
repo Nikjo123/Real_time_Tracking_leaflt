@@ -17,7 +17,7 @@ This project is a real-time tracking system built using Node.js, Express, EJS, a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/realtime-tracking.git
+    git clone https://github.com/Nikjo123/Real_time_Tracking_leaflt.git
     ```
 2. Navigate to the project directory:
     ```bash
